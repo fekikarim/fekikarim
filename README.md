@@ -7,9 +7,9 @@ I am a passionate **Software Engineer** with a strong focus on **Mobile Developm
 ### 🧑‍💻 About Me:
 
 - 🔭 Currently working on various **Mobile and Web Development** projects
-- 🎮 Won **2nd place** for best video game at **Game Design & Development Day 2023** with the game *KANM*
-- 🌱 Continuously improving my skills in **Symfony 6.4**, **C++**, **Python**, and **UI/UX Design**
-- 💼 Aspiring to start my own **business**, combining my technical expertise with entrepreneurship
+- 🎮 Won **2nd place** for best video game at **Game Design & Development Day 2023** for developing the game *The World Within* with the team *KANM*
+- 💼 Developed **HireUp**, a recruitment and employment website, which ranked in the **top 3 best projects** at the **Best Website Design & Development Day 2024** at ESPRIT
+- 🌱 Completed a 2-month internship at **Tunisie Telecom**, where I built a **full-stack e-commerce website** using **React JS** and earned an "internship certificate"
 - ⚡ Fun Fact: I’m passionate about coding and constantly looking for new challenges to solve!
 
 ---
@@ -37,7 +37,9 @@ I am a passionate **Software Engineer** with a strong focus on **Mobile Developm
 
 ### 🏆 Achievements:
 
-- **2nd Place** in the **Game Design & Development Day 2023** for developing the game *KANM*
+- **2nd Place** in the **Game Design & Development Day 2023** for developing the game *The World Within* with the team *KANM*
+- Developed **HireUp**, a top 3 project at the **Best Website Design & Development Day 2024**
+- Completed a **2-month internship** at **Tunisie Telecom**, building a **full-stack e-commerce website**
 - Developed a 2D game called *The World Within* with a focus on cultural diversity
 - Led and contributed to various team-based software projects with a focus on creating impactful, user-centered solutions
 
