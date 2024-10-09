@@ -14,6 +14,12 @@ I am a passionate **Software Engineer** with a strong focus on **Mobile Developm
 
 ---
 
+### 👩‍💻 Collaboration:
+
+I have collaborated with **@nesrine77** on various projects, including **KANM**, **FlyBox**, and **HireUp**. Our teamwork has allowed us to develop innovative solutions and enhance our skills through our internship experience at **Tunisie Telecom**.
+
+---
+
 ### 🚀 Skills & Tools:
 
 - **Languages**: Python, C, C++, JavaScript, Java, PHP
