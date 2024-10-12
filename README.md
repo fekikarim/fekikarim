@@ -63,6 +63,6 @@ I have collaborated with **@nesrine77** on various projects, including **KANM**,
 
 - [LinkedIn](https://www.linkedin.com/in/karimfeki) 
 - [Email](mailto:karim.feki.com@gmail.com)
-- [Facebook](https://www.facebook.com/profile.php?id=100079776822402) 
-- [Instagram](https://www.instagram.com/karim.feki.1/) 
+- [Facebook](https://www.facebook.com/karimfeki.co) 
+- [Instagram](https://www.instagram.com/karimfeki.co/) 
 - [Upwork](https://www.upwork.com/freelancers/~0185a0d6593f4bf939?mp_source=share) 
