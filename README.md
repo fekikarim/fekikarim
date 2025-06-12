@@ -170,7 +170,9 @@ I have collaborated with [**@nesrine77**](https://github.com/nesrine77) on vario
 <div align="center">
 
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karimfeki)
+
   [![Email](https://skillicons.dev/icons?i=gmail)](mailto:feki.karim28@gmail.com)
+
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/karimfeki.co/)
 
 </div>
