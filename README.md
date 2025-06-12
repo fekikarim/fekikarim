@@ -47,13 +47,15 @@ My technical experience covers **end-to-end software development**, from idea ge
 [![Backend & Frameworks](https://skillicons.dev/icons?i=symfony,nodejs)](https://skillicons.dev)
 
 ### **Mobile Development**
-[![Mobile Development](https://skillicons.dev/icons?i=flutter,androidstudio)](https://skillicons.dev)
+[![Mobile Development](https://skillicons.dev/icons?i=flutter,dart,androidstudio)](https://skillicons.dev)
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png">
+<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png">
 
 ### **Databases**
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,firebase)](https://skillicons.dev)
 
 ### **Tools & Technologies**
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,figma)](https://skillicons.dev)
+[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,figma,arduino)](https://skillicons.dev)
 
 </div>
 
@@ -98,44 +100,44 @@ I have collaborated with [**@nesrine77**](https://github.com/nesrine77) on vario
 
 ## 🏆 **Professional Achievements**
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-### **🥈 Competition Excellence**
-**2nd Place** - Game Design & Development Day 2023
-**Award-winning** game development with team KANM
-**Top 3** - Best Website Design & Development Day 2024
-**Selected Project** – *Bal des Projets* 2025 for Eco.net project with team Be.net
-
-</td>
-<td align="center" width="50%">
-
-### **💼 Professional Experience**
-**2-Month Internship** at Tunisie Telecom
-**Freelance Developer** – Delivered university team projects
-**Branding Consultant** – Created custom designs and optimized LinkedIn/social media presence
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### **👥 Leadership & Collaboration**
-**Team Leadership** in multiple successful projects
-**Collaborative Development** with [Nesrine Derouiche](https://www.linkedin.com/in/nesrine-derouiche/)
-**Mentoring** junior developers and students
-
-</td>
-<td align="center" width="50%">
-
-### **🎨 Design Excellence**
-**UI/UX Design** expertise
-**Graphic Design** for branding and marketing
-**User-Centered** design methodology
-
-</td>
-</tr>
+<table align="center" width="90%" cellpadding="20" cellspacing="0" style="border-collapse: separate; border-spacing: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
+  <tr>
+    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
+      <h3 style="color: #4a90e2;">🥈 Competition Excellence</h3>
+      <ul style="padding-left: 18px; margin-top: 10px;">
+        <li><strong>2nd Place</strong> – Game Design & Development Day 2023</li>
+        <li><strong>Award-winning</strong> game with team KANM</li>
+        <li><strong>Top 3</strong> – Best Website Design & Development Day 2024</li>
+        <li><strong>Selected Project</strong> – Bal des Projets 2025 for <em>Eco.net</em> with team Be.net</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
+      <h3 style="color: #4a90e2;">💼 Professional Experience</h3>
+      <ul style="padding-left: 18px; margin-top: 10px;">
+        <li><strong>Internship</strong> – 2 months at Tunisie Telecom</li>
+        <li><strong>Freelance Developer</strong> – Delivered university team projects</li>
+        <li><strong>Branding Consultant</strong> – Created custom designs & optimized LinkedIn/social media</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
+      <h3 style="color: #4a90e2;">👥 Leadership & Collaboration</h3>
+      <ul style="padding-left: 18px; margin-top: 10px;">
+        <li><strong>Team Leadership</strong> – Multiple successful projects</li>
+        <li><strong>Collaborative Development</strong> with <a href="https://www.linkedin.com/in/nesrine-derouiche/" style="color: #4a90e2; text-decoration: none;">Nesrine Derouiche</a></li>
+        <li><strong>Mentoring</strong> junior developers and students</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
+      <h3 style="color: #4a90e2;">🎨 Design Excellence</h3>
+      <ul style="padding-left: 18px; margin-top: 10px;">
+        <li><strong>UI/UX Design</strong> – Clean, user-friendly interfaces</li>
+        <li><strong>Graphic Design</strong> – Branding, marketing assets</li>
+        <li><strong>User-Centered</strong> design methodology</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -155,23 +157,30 @@ I have collaborated with [**@nesrine77**](https://github.com/nesrine77) on vario
   
 </div>
 
+<div align="center">
+
+### 🏆 GitHub Trophy Showcase
+
+<img src="https://github-profile-trophy.vercel.app/?username=fekikarim&row=2&column=4&theme=monokai" alt="GitHub Trophies" />
+
+</div>
+
 ---
 
 ## 🤝 **Professional Network**
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimfeki)
-  [![Email](https://img.shields.io/badge/Email-Business_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karim.feki.com@gmail.com)
-  [![Fiverr](https://img.shields.io/badge/Fiverr-Freelance_Services-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fr.fiverr.com/fekikarim)
-  [![Upwork](https://img.shields.io/badge/Upwork-Enterprise_Solutions-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0185a0d6593f4bf939?mp_source=share)
+  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karimfeki)
+  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:feki.karim28@gmail.com)
+  [![Fiverr](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png)](https://fr.fiverr.com/fekikarim)
+  [![Upwork](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/upwork-icon.png)](https://www.upwork.com/freelancers/~0185a0d6593f4bf939?mp_source=share)
   
 </div>
 
 <div align="center">
   
-  [![Facebook](https://img.shields.io/badge/Facebook-Social_Updates-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/karimfeki.co)
-  [![Instagram](https://img.shields.io/badge/Instagram-Creative_Portfolio-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/karimfeki.co/)
+  [![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png)](https://www.facebook.com/karimfeki.co)
+  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/karimfeki.co/)
   
 </div>
 
