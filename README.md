@@ -48,8 +48,6 @@ My technical experience covers **end-to-end software development**, from idea ge
 
 ### **Mobile Development**
 [![Mobile Development](https://skillicons.dev/icons?i=flutter,dart,androidstudio)](https://skillicons.dev)
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android.png">
-<img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ios.png">
 
 ### **Databases**
 [![Databases](https://skillicons.dev/icons?i=mysql,sqlite,firebase)](https://skillicons.dev)
@@ -172,14 +170,12 @@ I have collaborated with [**@nesrine77**](https://github.com/nesrine77) on vario
 <div align="center">
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karimfeki)
   [![Email](https://skillicons.dev/icons?i=gmail)](mailto:feki.karim28@gmail.com)
-  [![Fiverr](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png)](https://fr.fiverr.com/fekikarim)
-  [![Upwork](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/upwork-icon.png)](https://www.upwork.com/freelancers/~0185a0d6593f4bf939?mp_source=share)
   
 </div>
 
 <div align="center">
   
-  [![Facebook](https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png)](https://www.facebook.com/karimfeki.co)
+  [![Facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)](https://www.facebook.com/karimfeki.co)
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/karimfeki.co/)
   
 </div>
