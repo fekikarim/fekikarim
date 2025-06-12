@@ -168,16 +168,11 @@ I have collaborated with [**@nesrine77**](https://github.com/nesrine77) on vario
 ## 🤝 **Professional Network**
 
 <div align="center">
+
   [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karimfeki)
   [![Email](https://skillicons.dev/icons?i=gmail)](mailto:feki.karim28@gmail.com)
-  
-</div>
-
-<div align="center">
-  
-  [![Facebook](https://cloud.githubusercontent.com/assets/17016297/18839836/0a06deb4-83d2-11e6-8078-1d0974af0f63.png)](https://www.facebook.com/karimfeki.co)
   [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/karimfeki.co/)
-  
+
 </div>
 
 ---
