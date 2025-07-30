@@ -20,7 +20,8 @@
 
 ## 🎯 **About Me**
 
-I am an **Engineering Student** with strong skills in **Full-Stack Development** including **Mobile, Web, and Desktop Application Development**. With a proven track record of delivering high-impact software solutions, I combine technical excellence with strategic thinking to create innovative applications that drive business success.
+I’m an Engineering Student at ESPRIT, currently specializing in **SIM (Mobile and Embedded Systems)** as part of my engineering cycle.
+With a strong foundation in **Full-Stack Development** across Mobile, Web, and Desktop platforms, I focus on building modern, scalable, and impactful applications that align with user needs and business goals.
 
 My technical experience covers **end-to-end software development**, from idea generation and architecture planning to deployment and maintenance. I have strong skills in **cross-platform development**, **system optimization**, and **collaborative teamwork**, consistently contributing to scalable solutions that meet and often surpass project goals.
 
@@ -67,13 +68,13 @@ I have collaborated with [**@nesrine77**](https://github.com/nesrine77) on vario
 
 ### 🚀 Skills & Tools:
 
-- **Languages**: Python, C, C++, JavaScript, Java, PHP
-- **Frameworks**: Symfony 6.4, React, Node.js
-- **Mobile Development**: Android, iOS
+- **Languages**: Python, C, C++, JavaScript, Java, Dart, PHP
+- **Frameworks**: Symfony 6.4, Flutter, FlutterFlow, Flet, JavaFX, React, Express, Node.js
+- **Mobile Development**: Android, iOS, Flutter, Flet
 - **Web Technologies**: HTML5, CSS3, JavaScript, Bootstrap
 - **Database**: MySQL, SQLite
-- **Tools**: Git, Docker, Visual Studio Code, Figma
-- **Design**: Graphic Design (Logos, Flyers), UI/UX Design
+- **Tools**: Git, Visual Studio Code, Figma
+- **Design**: Graphic Design *(Logos, Flyers, etc.)*, UI/UX Design
 
 ---
 
