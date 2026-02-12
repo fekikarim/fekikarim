@@ -4,191 +4,213 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9CFF00&center=true&vCenter=true&width=600&lines=SIM+Engineering+Student;Mobile+Web+Desktop+Apps+Development;UI%2FUX+%26+Graphic+Designer)](https://git.io/typing-svg)
-  
-</div>
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=9CFF00&center=true&vCenter=true&width=750&lines=Software+%26+Mobile+Engineering+Student;Full-Stack+Developer;UI%2FUX+Designer+%7C+Tech+Entrepreneur)](https://git.io/typing-svg)
 
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=fekikarim&style=for-the-badge&color=brightgreen)
-  [![GitHub followers](https://img.shields.io/github/followers/fekikarim?style=for-the-badge&color=blue)](https://github.com/fekikarim)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karimfeki)
-  
-</div>
-
----
-
-## 🎯 **About Me**
-
-I’m an Engineering Student at ESPRIT, currently specializing in **SIM (Mobile and Embedded Systems)** as part of my engineering cycle.
-With a strong foundation in **Full-Stack Development** across Mobile, Web, and Desktop platforms, I focus on building modern, scalable, and impactful applications that align with user needs and business goals.
-
-My technical experience covers **end-to-end software development**, from idea generation and architecture planning to deployment and maintenance. I have strong skills in **cross-platform development**, **system optimization**, and **collaborative teamwork**, consistently contributing to scalable solutions that meet and often surpass project goals.
-
-### **Current Focus Areas:**
-- 🏗️ **Software Architecture Fundamentals** - Designing scalable, maintainable systems
-- 📱 **Cross-Platform Mobile Development** - Native iOS/Android and hybrid solutions  
-- 🌐 **Full-Stack Web Applications** - Modern frameworks and cloud technologies
-- 💼 **Technical Leadership** - Mentoring teams and driving engineering excellence
-- 🚀 **Entrepreneurship & Innovation** - Passionate about launching my own tech business and turning creative ideas into real-world solutions
-
----
-
-## 🛠️ **Technology Stack**
-
-<div align="center">
-
-### **Programming Languages**
-[![Programming Languages](https://skillicons.dev/icons?i=python,js,java,cpp,php,c)](https://skillicons.dev)
-
-### **Frontend Technologies**
-[![Frontend Technologies](https://skillicons.dev/icons?i=react,html,css,bootstrap)](https://skillicons.dev)
-
-### **Backend & Frameworks**
-[![Backend & Frameworks](https://skillicons.dev/icons?i=symfony,nodejs)](https://skillicons.dev)
-
-### **Mobile Development**
-[![Mobile Development](https://skillicons.dev/icons?i=flutter,dart,androidstudio)](https://skillicons.dev)
-
-### **Databases**
-[![Databases](https://skillicons.dev/icons?i=mysql,sqlite,firebase)](https://skillicons.dev)
-
-### **Tools & Technologies**
-[![Tools & Technologies](https://skillicons.dev/icons?i=git,github,vscode,figma,arduino)](https://skillicons.dev)
-
-</div>
-
----
-
-### 👩‍💻 Collaboration:
-
-I have collaborated with [**@nesrine77**](https://github.com/nesrine77) on various projects, including **The World Within**, **FlyBox**, **HireUp** and More. Our teamwork has allowed us to develop innovative solutions and enhance our skills through our internship experience at **Tunisie Telecom**.
-
----
-
-### 🚀 Skills & Tools:
-
-- **Languages**: Python, C, C++, JavaScript, Java, Dart, PHP
-- **Frameworks**: Symfony 6.4, Flutter, FlutterFlow, Flet, JavaFX, React, Express, Node.js
-- **Mobile Development**: Android, iOS, Flutter, Flet
-- **Web Technologies**: HTML5, CSS3, JavaScript, Bootstrap
-- **Database**: MySQL, SQLite
-- **Tools**: Git, Visual Studio Code, Figma
-- **Design**: Graphic Design *(Logos, Flyers, etc.)*, UI/UX Design
-
----
-
-### 🏆 Achievements:
-
-- Developed a 2D game called *The World Within* with a focus on cultural diversity
-- **2nd Place** in the **Game Design & Development Day 2023** for developing the game *The World Within* with the team *KANM*
-- Completed a **2-month internship** at **Tunisie Telecom**, building a **full-stack e-commerce website**
-- Developed **HireUp**, a top 3 project at the **Best Website Design & Development Day 2024**
-- Built Eco.net, an environmental awareness platform using Symfony 6.4 and JavaFX. This project was selected for the Bal des Projets 2025 as one of the best projects of the year
-- Led and contributed to various team-based software projects with a focus on creating impactful, user-centered solutions
-
----
-
-### 💼 Future Goals:
-
-- 🚀 I aim to launch my own **business** that will blend cutting-edge technology with practical solutions to solve real-world problems
-- 💡 Open to collaborating on exciting **software development projects** and exploring **startup** opportunities
-- 🏆 Aspiring to continue growing as a **developer** and eventually expand into **business leadership**
-
----
-
-## 🏆 **Professional Achievements**
-
-<table align="center" width="90%" cellpadding="20" cellspacing="0" style="border-collapse: separate; border-spacing: 20px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #333;">
-  <tr>
-    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
-      <h3 style="color: #4a90e2;">🥈 Competition Excellence</h3>
-      <ul style="padding-left: 18px; margin-top: 10px;">
-        <li><strong>2nd Place</strong> – Game Design & Development Day 2023</li>
-        <li><strong>Award-winning</strong> game with team KANM</li>
-        <li><strong>Top 3</strong> – Best Website Design & Development Day 2024</li>
-        <li><strong>Selected Project</strong> – Bal des Projets 2025 for <em>Eco.net</em> with team Be.net</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
-      <h3 style="color: #4a90e2;">💼 Professional Experience</h3>
-      <ul style="padding-left: 18px; margin-top: 10px;">
-        <li><strong>Internship</strong> – 2 months at Tunisie Telecom</li>
-        <li><strong>Freelance Developer</strong> – Delivered university team projects</li>
-        <li><strong>Branding Consultant</strong> – Created custom designs & optimized LinkedIn/social media</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
-      <h3 style="color: #4a90e2;">👥 Leadership & Collaboration</h3>
-      <ul style="padding-left: 18px; margin-top: 10px;">
-        <li><strong>Team Leadership</strong> – Multiple successful projects</li>
-        <li><strong>Collaborative Development</strong> with <a href="https://www.linkedin.com/in/nesrine-derouiche/" style="color: #4a90e2; text-decoration: none;">Nesrine Derouiche</a></li>
-        <li><strong>Mentoring</strong> junior developers and students</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" style="background: #f9f9f9; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); padding: 24px;">
-      <h3 style="color: #4a90e2;">🎨 Design Excellence</h3>
-      <ul style="padding-left: 18px; margin-top: 10px;">
-        <li><strong>UI/UX Design</strong> – Clean, user-friendly interfaces</li>
-        <li><strong>Graphic Design</strong> – Branding, marketing assets</li>
-        <li><strong>User-Centered</strong> design methodology</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fekikarim&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fekikarim&layout=compact&langs_count=8&theme=radical"/>
-  
-</div>
-
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=fekikarim&theme=radical)](https://git.io/streak-stats)
-  
 </div>
 
 <div align="center">
 
-### 🏆 GitHub Trophy Showcase
-
-<img src="https://github-profile-trophy.vercel.app/?username=fekikarim&row=2&column=4&theme=monokai" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🤝 **Professional Network**
-
-<div align="center">
-
-  [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/karimfeki) 
-  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:feki.karim28@gmail.com) 
-  [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/karimfeki.co/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-karimfeki.is--a.dev-9CFF00?style=for-the-badge)](https://karimfeki.is-a.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-fekikarim-black?style=for-the-badge&logo=github)](https://github.com/fekikarim)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Karim_Feki-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/karimfeki)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:feki.karim28@gmail.com)
 
 </div>
 
 ---
 
+# 🎯 About Me
+
+I am a **Computer Engineering student at ESPRIT University (Tunisia)** specializing in **Computer & Mobile Systems (SIM)**.
+
+I design and develop **scalable, production-ready mobile, web, and desktop applications** using a strong engineering methodology grounded in:
+
+- Software Architecture & System Design  
+- Clean Code & Maintainability  
+- UI/UX & Product Thinking  
+- Performance Optimization  
+- Agile & Team Collaboration  
+
+With an **entrepreneurial and innovation-driven mindset**, I aim to build impactful digital products that combine technology, design, and business strategy.
+
+---
+
+# 🚀 Current Focus
+
+- 🏗 Software Architecture & System Design  
+- 📱 Native & Cross-Platform Mobile Development (Flutter, Kotlin, Swift)  
+- 🌐 Modern Full-Stack Web Development (React, Next.js, Node.js, Spring Boot)  
+- 🧠 DevOps & Scalable Backend Systems  
+- 💼 Tech Entrepreneurship & Product Strategy  
+
+---
+
+# 🛠 Technology Stack
+
 <div align="center">
-  
-  ### **"Innovation distinguishes between a leader and a follower."**
-  *— Steve Jobs*
-  
-  **Let's build the future together. Connect with me for collaboration opportunities.**
-  
+
+### 👨‍💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=python,java,js,dart,kotlin,gradle,swift,cpp,c,dotnet,php)](https://skillicons.dev)
+
+---
+
+### 🌐 Frontend Development
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind)](https://skillicons.dev)
+
+---
+
+### 🖥 Backend & Frameworks
+[![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,flask,symfony)](https://skillicons.dev)
+
+---
+
+### 📱 Mobile Development
+[![Mobile](https://skillicons.dev/icons?i=flutter,kotlin,swift,androidstudio)](https://skillicons.dev)
+
+---
+
+### 🗄 Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,firebase)](https://skillicons.dev)
+
+---
+
+### ⚙️ Tools & DevOps
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,figma,arduino,kubernetes,grafana,docker,jenkins,prometheus)](https://skillicons.dev)
+
+</div>
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Business Immersion Internship — STAR ASSURANCES (2025)
+
+**Duration:** June 2025 – August 2025  
+**Location:** La Goulette, Tunis (Hybrid)
+
+Developed and deployed a **full-stack Challenge Management System** designed to gamify and optimize sales performance.
+
+### Key Contributions:
+- Built a **Flutter mobile application**
+- Developed a secure **Node.js / Express.js backend**
+- Designed RESTful APIs
+- Integrated SQLite database
+- Implemented role-based access control
+- Created performance dashboards with real-time updates
+- Applied Agile methodology and UML modeling
+
+✅ Delivered a scalable, secure, and production-ready system that improved transparency, engagement, and operational efficiency.
+
+---
+
+## 🏢 Full-Stack Developer Intern — Tunisie Telecom (2023)
+
+Developed a professional **full-stack e-commerce platform** using React.js.
+
+- Improved UX and overall system performance
+- Collaborated within a structured development team
+- Delivered within strict deadlines
+- Received official internship certification
+
+---
+
+# 🏆 Selected Projects & Achievements
+
+## 🎮 The World Within
+2D cultural diversity game  
+🥈 **2nd Place — Game Design & Development Day 2023**
+
+## 💼 HireUp
+Recruitment & employment platform  
+🏆 **Top 3 — Best Website Design & Development Day 2024**
+
+## 🌱 Eco.net
+Environmental awareness platform (Symfony + JavaFX)  
+🏆 Selected for **Bal des Projets 2025**
+
+## 📱 Tache-Lik
+iOS & Android educational management platform  
+🏆 **Top 1 Project — 4th Year University Class (4SIM1)**
+
+---
+
+# 👥 Leadership & Collaboration
+
+- Core member of **Be.net Team**
+- Led and contributed to multiple award-winning projects
+- Mentored students in development and architecture concepts
+- Strong experience in collaborative software engineering
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+
+  <!-- Stats Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fekikarim&theme=radical" alt="GitHub Stats" width="350"/>
+
+  <!-- Languages Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fekikarim&theme=radical" alt="Top Languages" width="350"/>
+
+  <!-- Streak Card -->
+  <img src="https://streak-stats.demolab.com/?user=fekikarim&theme=radical" alt="GitHub Streak" width="500"/>
+
+</div>
+
+---
+
+# 🎨 Design & Product Mindset
+
+- UI/UX Design (User-Centered Methodology)
+- Branding & Graphic Design
+- Product Strategy Thinking
+- Engineering + Business Integration
+
+---
+
+# 🌍 Connect With Me
+
+<div align="center" style="display:flex; gap:25px; justify-content:center; align-items:center; margin-top:10px;">
+
+<a href="https://karimfeki.is-a.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=link" alt="Portfolio" width="60" height="60" style="display:inline-block; vertical-align:middle;"/>
+</a>
+
+<a href="https://github.com/fekikarim" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60" style="display:inline-block; vertical-align:middle;"/>
+</a>
+
+<a href="https://www.linkedin.com/in/karimfeki" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="60" height="60" style="display:inline-block; vertical-align:middle;"/>
+</a>
+
+<a href="mailto:feki.karim28@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="60" height="60" style="display:inline-block; vertical-align:middle;"/>
+</a>
+
+<a href="https://www.instagram.com/karimfeki.co/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="60" height="60" style="display:inline-block; vertical-align:middle;"/>
+</a>
+
+<a href="https://linktr.ee/karimfeki" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linktree" alt="Linktree" width="60" height="60" style="display:inline-block; vertical-align:middle;"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "Innovation distinguishes between a leader and a follower."  
+— Steve Jobs  
+
+**Let’s build impactful technology together.**
+
 </div>
 
 <div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer)
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer" alt="Footer Wave" style="width:100%; height:auto;">
 </div>
+
