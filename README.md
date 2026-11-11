@@ -11,7 +11,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9CFF00&center=true&vCenter=true&width=850&lines=Software+%26+AI+Engineer;Full-Stack+%26+Mobile+Developer;Final-Year+Engineering+Student+at+ESPRIT;Software+Engineering+Intern+%40+STEG" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9CFF00&center=true&vCenter=true&width=850&lines=Software+%26+AI+Engineer;Full-Stack+%26+Mobile+Developer;Final-Year+Engineering+Student+at+ESPRIT" alt="Typing animation"/>
 
 <br/>
 
