@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1000 320" width="1000" height="320" role="img" aria-label="Karim Feki - Software and AI Engineer">
+  <defs>
+    <radialGradient id="bg" cx="0.78" cy="0.5" r="0.7">
+      <stop offset="0" stop-color="#1c2b07"/>
+      <stop offset="0.55" stop-color="#0d1008"/>
+      <stop offset="1" stop-color="#060705"/>
+    </radialGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#9CFF00" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#9CFF00" stop-opacity="1"/>
+      <stop offset="1" stop-color="#9CFF00" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#9CFF00" stroke-opacity="0.07"/>
+      <animate attributeName="x" from="0" to="40" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="y" from="0" to="40" dur="8s" repeatCount="indefinite"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <path id="orb" d="M-150,0 a150,50 0 1,0 300,0 a150,50 0 1,0 -300,0"/>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="320" fill="url(#bg)"/>
+  <rect width="1000" height="320" fill="url(#grid)"/>
+
+  <!-- Corner frame -->
+  <g fill="none" stroke="#9CFF00" stroke-width="1.5" stroke-opacity="0.6">
+    <path d="M14,40 V14 H40"/>
+    <path d="M960,14 H986 V40"/>
+    <path d="M986,280 V306 H960"/>
+    <path d="M40,306 H14 V280"/>
+  </g>
+
+  <!-- Left column: identity -->
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace">
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.8s" fill="freeze"/>
+      <text x="60" y="96" font-size="18" fill="#9CFF00" fill-opacity="0.75">&gt; hello_world()  // I'm</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.9s" fill="freeze"/>
+      <text x="58" y="162" font-size="60" font-weight="700" fill="#9CFF00" filter="url(#glow)">Karim Feki</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.8s" fill="freeze"/>
+      <text x="60" y="203" font-size="25" font-weight="600" fill="#F2F7E6">Software &amp; AI Engineer</text>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.8s" fill="freeze"/>
+      <text x="60" y="235" font-size="15" fill="#A7B39A">Final-Year Engineering Student · ESPRIT University</text>
+    </g>
+    <!-- Animated progress line -->
+    <line x1="60" y1="262" x2="480" y2="262" stroke="#9CFF00" stroke-opacity="0.15" stroke-width="2"/>
+    <line x1="60" y1="262" x2="480" y2="262" stroke="#9CFF00" stroke-width="2" stroke-dasharray="14 10">
+      <animate attributeName="stroke-dashoffset" from="0" to="-48" dur="1.2s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Right: orbital system (pseudo-3D) -->
+  <g transform="translate(790 160)" filter="url(#glow)">
+    <g transform="rotate(-24)">
+      <ellipse rx="150" ry="50" fill="none" stroke="#9CFF00" stroke-opacity="0.35" stroke-width="1.4" stroke-dasharray="5 9">
+        <animate attributeName="stroke-dashoffset" from="0" to="-140" dur="6s" repeatCount="indefinite"/>
+      </ellipse>
+      <circle r="4.5" fill="#E8FFB0">
+        <animateMotion dur="5s" repeatCount="indefinite">
+          <mpath xlink:href="#orb"/>
+        </animateMotion>
+      </circle>
+    </g>
+    <g transform="rotate(50)">
+      <ellipse rx="150" ry="50" fill="none" stroke="#9CFF00" stroke-opacity="0.25" stroke-width="1.2" stroke-dasharray="3 8">
+        <animate attributeName="stroke-dashoffset" from="0" to="110" dur="8s" repeatCount="indefinite"/>
+      </ellipse>
+      <circle r="3.5" fill="#9CFF00">
+        <animateMotion dur="7s" repeatCount="indefinite">
+          <mpath xlink:href="#orb"/>
+        </animateMotion>
+      </circle>
+    </g>
+    <g transform="rotate(-80)">
+      <ellipse rx="150" ry="50" fill="none" stroke="#9CFF00" stroke-opacity="0.2" stroke-width="1" stroke-dasharray="2 10"/>
+      <circle r="3" fill="#FFFFFF">
+        <animateMotion dur="9s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear" rotate="auto">
+          <mpath xlink:href="#orb"/>
+        </animateMotion>
+      </circle>
+    </g>
+  </g>
+
+  <!-- Core -->
+  <g transform="translate(790 160)">
+    <circle r="34" fill="none" stroke="#9CFF00" stroke-width="1">
+      <animate attributeName="r" values="26;48;26" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.6;0;0.6" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <circle r="13" fill="#9CFF00" filter="url(#glow)">
+      <animate attributeName="r" values="11;15;11" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Twinkling particles -->
+  <g fill="#9CFF00">
+    <circle cx="520" cy="60" r="1.6"><animate attributeName="opacity" values="0.1;1;0.1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="612" cy="270" r="1.2"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="940" cy="52" r="1.6"><animate attributeName="opacity" values="0.1;1;0.1" dur="3.7s" repeatCount="indefinite"/></circle>
+    <circle cx="470" cy="302" r="1.4"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="965" cy="272" r="1.2"><animate attributeName="opacity" values="0.1;1;0.1" dur="4.1s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="150" r="1"><animate attributeName="opacity" values="0.1;1;0.1" dur="2.2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

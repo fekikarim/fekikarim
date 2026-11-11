@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 44" width="1000" height="44" role="img" aria-label="Tech stack marquee">
+  <defs>
+    <clipPath id="clip"><rect width="1000" height="44" rx="8"/></clipPath>
+  </defs>
+  <rect width="1000" height="44" rx="8" fill="#0b0e07"/>
+  <rect x="0.5" y="0.5" width="999" height="43" rx="8" fill="none" stroke="#9CFF00" stroke-opacity="0.25"/>
+  <g clip-path="url(#clip)" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monospace" font-size="16" font-weight="700" fill="#9CFF00">
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1600 0" dur="28s" repeatCount="indefinite"/>
+      <text x="0" y="28" textLength="1600" lengthAdjust="spacing">FLUTTER ◆ KOTLIN ◆ SWIFT ◆ REACT ◆ NEXT.JS ◆ ANGULAR ◆ SPRING BOOT ◆ NODE.JS ◆ EXPRESS ◆ POSTGRESQL ◆ FIREBASE ◆ SUPABASE ◆ DOCKER ◆ JWT ◆ RBAC ◆ WEBSOCKET ◆ REST APIs ◆ </text>
+      <text x="1600" y="28" textLength="1600" lengthAdjust="spacing">FLUTTER ◆ KOTLIN ◆ SWIFT ◆ REACT ◆ NEXT.JS ◆ ANGULAR ◆ SPRING BOOT ◆ NODE.JS ◆ EXPRESS ◆ POSTGRESQL ◆ FIREBASE ◆ SUPABASE ◆ DOCKER ◆ JWT ◆ RBAC ◆ WEBSOCKET ◆ REST APIs ◆ </text>
+    </g>
+  </g>
+</svg>
